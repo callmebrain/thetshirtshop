@@ -1,0 +1,18 @@
+
+
+110 = MBS
+/collections/all/products/ring-spun-crew-neck-t-shirt?variant=17063954251847
+
+120 = MBM
+/collections/all/products/ring-spun-crew-neck-t-shirt?variant=17063464632391
+
+130 = MBL
+a/collections/all/products/ring-spun-crew-neck-t-shirt?variant=17064191852615
+
+140 = MBXL
+/collections/all/products/ring-spun-crew-neck-t-shirt?variant=17064197816391
+
+150 = MB2XL
+/collections/all/products/ring-spun-crew-neck-t-shirt?variant=17064203812935
+
+
